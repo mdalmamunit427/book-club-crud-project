@@ -1,1 +1,1 @@
-export const baseUrl = "https://book-club-crud-project.vercel.app"
+export const baseUrl = "http://localhost:3000"
