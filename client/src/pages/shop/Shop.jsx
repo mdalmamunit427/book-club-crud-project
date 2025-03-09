@@ -62,6 +62,8 @@ const Shop = () => {
           console.error(err);
         }
       };
+
+      console.log(books)
   return (
     <div className="container mx-auto px-4 py-12 min-h-screen">
       
