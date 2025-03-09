@@ -1,1 +1,1 @@
-export const baseUrl = import.meta.env.VITE_BASE_URL
+export const baseUrl = "https://book-club-crud-project.vercel.app"
