@@ -1,0 +1,103 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishedYear": 1925,
+      "genre": "Fiction",
+      "price": 10.99,
+      "description": "A classic novel set in the Jazz Age, depicting the excess and tragedy of the American dream.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650033243i/41733839.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/41733839-the-great-gatsby"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishedYear": 1960,
+      "genre": "Fiction",
+      "price": 12.99,
+      "description": "A powerful story about racial injustice in the Deep South, seen through the eyes of a young girl.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612238791i/56916837.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/56916837-to-kill-a-mockingbird"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedYear": 1949,
+      "genre": "Dystopian",
+      "price": 15.50,
+      "description": "A dystopian novel that explores the dangers of totalitarianism and extreme political ideology.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/61439040-1984"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "publishedYear": 1851,
+      "genre": "Adventure",
+      "price": 9.99,
+      "description": "An epic tale of obsession and revenge, following Captain Ahab’s pursuit of the white whale, Moby Dick.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327940656i/153747.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishedYear": 1813,
+      "genre": "Romance",
+      "price": 8.99,
+      "description": "A timeless romantic novel about love, class, and societal expectations in 19th-century England.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681804503i/129915654.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/129915654-pride-prejudice"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publishedYear": 1951,
+      "genre": "Fiction",
+      "price": 11.99,
+      "description": "A novel that captures teenage angst and alienation through the experiences of Holden Caulfield.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedYear": 1932,
+      "genre": "Dystopian",
+      "price": 13.99,
+      "description": "A futuristic dystopian novel that explores the consequences of state control, technology, and consumerism.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publishedYear": 1937,
+      "genre": "Fantasy",
+      "price": 14.99,
+      "description": "A beloved fantasy adventure that follows Bilbo Baggins on a quest to reclaim a lost kingdom.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again"
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publishedYear": 1869,
+      "genre": "Historical",
+      "price": 19.99,
+      "description": "A sweeping historical novel that intertwines the lives of several families during the Napoleonic Wars.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/656.War_and_Peace"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publishedYear": 1866,
+      "genre": "Psychological Fiction",
+      "price": 16.99,
+      "description": "A gripping psychological novel that delves into the mind of a man who commits a crime and struggles with guilt.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg",
+      "bookUrl": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
+    }
+  ]
+  
